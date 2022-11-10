@@ -11,3 +11,5 @@ Run the following code in command line (or Vitis HLS Command Prompt):
 vitis_hls -p tcl_script.tcl
 ```
 Or you can build the project following [Lab1](https://github.com/bol-edu/course-lab_1/blob/2022.1/2022.1-Workbook-Lab1.pdf).
+## Result
+Use 7ns-clock for Csynthesis and Cosimulation, you will get score 6063.81.
